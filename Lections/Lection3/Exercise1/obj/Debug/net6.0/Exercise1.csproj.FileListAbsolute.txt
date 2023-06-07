@@ -1,0 +1,15 @@
+/Users/denisboyarshinov/Desktop/C#/Lections/Lection3/Exercise1/bin/Debug/net6.0/Exercise1
+/Users/denisboyarshinov/Desktop/C#/Lections/Lection3/Exercise1/bin/Debug/net6.0/Exercise1.deps.json
+/Users/denisboyarshinov/Desktop/C#/Lections/Lection3/Exercise1/bin/Debug/net6.0/Exercise1.runtimeconfig.json
+/Users/denisboyarshinov/Desktop/C#/Lections/Lection3/Exercise1/bin/Debug/net6.0/Exercise1.dll
+/Users/denisboyarshinov/Desktop/C#/Lections/Lection3/Exercise1/bin/Debug/net6.0/Exercise1.pdb
+/Users/denisboyarshinov/Desktop/C#/Lections/Lection3/Exercise1/obj/Debug/net6.0/Exercise1.csproj.AssemblyReference.cache
+/Users/denisboyarshinov/Desktop/C#/Lections/Lection3/Exercise1/obj/Debug/net6.0/Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisboyarshinov/Desktop/C#/Lections/Lection3/Exercise1/obj/Debug/net6.0/Exercise1.AssemblyInfoInputs.cache
+/Users/denisboyarshinov/Desktop/C#/Lections/Lection3/Exercise1/obj/Debug/net6.0/Exercise1.AssemblyInfo.cs
+/Users/denisboyarshinov/Desktop/C#/Lections/Lection3/Exercise1/obj/Debug/net6.0/Exercise1.csproj.CoreCompileInputs.cache
+/Users/denisboyarshinov/Desktop/C#/Lections/Lection3/Exercise1/obj/Debug/net6.0/Exercise1.dll
+/Users/denisboyarshinov/Desktop/C#/Lections/Lection3/Exercise1/obj/Debug/net6.0/refint/Exercise1.dll
+/Users/denisboyarshinov/Desktop/C#/Lections/Lection3/Exercise1/obj/Debug/net6.0/Exercise1.pdb
+/Users/denisboyarshinov/Desktop/C#/Lections/Lection3/Exercise1/obj/Debug/net6.0/Exercise1.genruntimeconfig.cache
+/Users/denisboyarshinov/Desktop/C#/Lections/Lection3/Exercise1/obj/Debug/net6.0/ref/Exercise1.dll
