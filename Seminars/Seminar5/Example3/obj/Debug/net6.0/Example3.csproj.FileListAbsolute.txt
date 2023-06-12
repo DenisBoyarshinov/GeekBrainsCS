@@ -1,0 +1,15 @@
+/Users/denisboyarshinov/Desktop/C#/Seminars/Seminar5/Example3/bin/Debug/net6.0/Example3
+/Users/denisboyarshinov/Desktop/C#/Seminars/Seminar5/Example3/bin/Debug/net6.0/Example3.deps.json
+/Users/denisboyarshinov/Desktop/C#/Seminars/Seminar5/Example3/bin/Debug/net6.0/Example3.runtimeconfig.json
+/Users/denisboyarshinov/Desktop/C#/Seminars/Seminar5/Example3/bin/Debug/net6.0/Example3.dll
+/Users/denisboyarshinov/Desktop/C#/Seminars/Seminar5/Example3/bin/Debug/net6.0/Example3.pdb
+/Users/denisboyarshinov/Desktop/C#/Seminars/Seminar5/Example3/obj/Debug/net6.0/Example3.csproj.AssemblyReference.cache
+/Users/denisboyarshinov/Desktop/C#/Seminars/Seminar5/Example3/obj/Debug/net6.0/Example3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisboyarshinov/Desktop/C#/Seminars/Seminar5/Example3/obj/Debug/net6.0/Example3.AssemblyInfoInputs.cache
+/Users/denisboyarshinov/Desktop/C#/Seminars/Seminar5/Example3/obj/Debug/net6.0/Example3.AssemblyInfo.cs
+/Users/denisboyarshinov/Desktop/C#/Seminars/Seminar5/Example3/obj/Debug/net6.0/Example3.csproj.CoreCompileInputs.cache
+/Users/denisboyarshinov/Desktop/C#/Seminars/Seminar5/Example3/obj/Debug/net6.0/Example3.dll
+/Users/denisboyarshinov/Desktop/C#/Seminars/Seminar5/Example3/obj/Debug/net6.0/refint/Example3.dll
+/Users/denisboyarshinov/Desktop/C#/Seminars/Seminar5/Example3/obj/Debug/net6.0/Example3.pdb
+/Users/denisboyarshinov/Desktop/C#/Seminars/Seminar5/Example3/obj/Debug/net6.0/Example3.genruntimeconfig.cache
+/Users/denisboyarshinov/Desktop/C#/Seminars/Seminar5/Example3/obj/Debug/net6.0/ref/Example3.dll
